@@ -1,0 +1,27 @@
+_repo: The-Light-KeepersA-Story-of-the-United-States-Light-house-Service_41997
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Lighthouse keepers -- Juvenile fiction'
+title: 'The Light Keepers: A Story of the United States Light-house Service'
+url: http://www.gutenberg.org/ebooks/41997
